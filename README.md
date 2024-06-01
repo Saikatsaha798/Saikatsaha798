@@ -19,14 +19,14 @@
 <p align="left">
 <a href="https://twitter.com/saikatsaha798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saikatsaha798" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saikatsaha798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saikatsaha798" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/saikatsaha798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="saikatsaha798" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14258423/saikat-saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14258423/saikat-saha" height="30" width="40" /></a>
 <a href="https://kaggle.com/saikatsaha798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saikatsaha798" height="30" width="40" /></a>
-<a href="https://instagram.com/saikatsaha798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saikatsaha798" height="30" width="40" /></a>
+<a href="https://instagram.com/s.ipynb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.ipynb" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/saikatsaha798" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="saikatsaha798" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/saikatsaha798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saikatsaha798" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/saikatsaha798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="saikatsaha798" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/saikatsaha798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saikatsaha798" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/saikatsaha798/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="saikatsaha798/profile" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/user/saikats9rpx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/saikats9rpx/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -37,4 +37,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saikatsaha798&show_icons=true&locale=en" alt="saikatsaha798" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saikatsaha798&" alt="saikatsaha798" /></p>
-
